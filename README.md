@@ -1,3 +1,6 @@
+Social Web
+
+This is a web application which uses the JsonPlaceholder API for reading posts on a blog, editing, adding and deleting posts.
 
 Steps to deploy the application on your local machine
 
